@@ -1,0 +1,19 @@
+{
+  "name": "Pi-CCTV-Stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PhantomShadow/Pi-CCTV-Stream.git"
+  },
+  "author": "Harley Glossop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhantomShadow/Pi-CCTV-Stream/issues"
+  },
+  "homepage": "https://github.com/PhantomShadow/Pi-CCTV-Stream"
+}
